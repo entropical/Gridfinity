@@ -1,0 +1,43 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "plate1": {
+            "$fa": "8",
+            "$fs": "0.25",
+            "chamfer_holes": "true",
+            "crush_ribs": "true",
+            "d_screw": "3.3500000000000001",
+            "d_screw_head": "5",
+            "distancex": "100",
+            "distancey": "100",
+            "enable_magnet": "true",
+            "fitx": "-1",
+            "fity": "-1",
+            "gridx": "2",
+            "gridy": "2",
+            "n_screws": "1",
+            "screw_spacing": "0.5",
+            "style_hole": "0",
+            "style_plate": "3"
+        },
+        "plate2": {
+            "$fa": "8",
+            "$fs": "0.25",
+            "chamfer_holes": "true",
+            "crush_ribs": "true",
+            "d_screw": "3.3500000000000001",
+            "d_screw_head": "5",
+            "distancex": "110",
+            "distancey": "110",
+            "enable_magnet": "true",
+            "fitx": "1",
+            "fity": "-1",
+            "gridx": "2",
+            "gridy": "2",
+            "n_screws": "1",
+            "screw_spacing": "0.5",
+            "style_hole": "0",
+            "style_plate": "3"
+        }
+    }
+}
